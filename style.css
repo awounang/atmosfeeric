@@ -1,0 +1,86 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto+Condensed:wght@300&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Lora&family=Roboto+Condensed:wght@300&display=swap');
+
+ #head{
+   border-bottom-style: outset;
+   border-bottom-color: rgb(248, 224, 104);
+ }
+ 
+ #nav{
+ display: inline-flex;
+ position: relative;
+ left: 70%;
+ margin-top:0px;
+ margin-bottom:0px;
+ }
+ #nav :hover{
+color: red;
+ }
+ #logo{
+    display:flex;
+    position: relative;
+    left: 70%;
+    margin-top:0px;
+    margin-bottom:0px;
+ }
+ #back{
+   width: 60px;
+   display:flex;
+    position: relative;
+    left: 70%;
+    margin-top:0px;
+    margin-bottom:20px;
+ }
+ 
+ 
+ #highlight{
+    font-family: 'Courier New', Courier, monospace;
+ font-size: 120%; 
+ color: rgb(245, 207, 57);
+ }
+ #x{
+   text-align: center;
+color: rgb(245, 207, 57);
+ }
+ #xy{
+    text-align: center;
+ color: rgb(245, 207, 57);
+  }
+ .icons{
+    display: inline-flex;
+    position: relative;
+ }
+ #a{
+   margin-left: 10%;
+ }
+ 
+ #b{
+    margin-right: 10%;
+    margin-left: 10%;
+ }
+ #c{
+    margin-right: 10%;
+ }
+ .gallery{
+    margin-top: 25px;
+    margin-left: 75px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+   width: 300px;
+   height: 200px;
+    border-style: outset;
+    border-color: bisque;
+    float: left;
+ }
+ #tt{
+display: flex;
+margin-top: 0px;
+    margin-bottom: 20px;
+   border-style: hidden;
+   
+  
+ }
+ #tx{ color: black;}
+ 
